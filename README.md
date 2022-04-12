@@ -9,7 +9,7 @@ Prerequisito: Instalar nodeJS, npm, MongoDB y MongoDB Compass (de preferencia).
 
 2.Para importar base de datos (desde MongoDB Compass)
 
-    Se puede acceder desde la aplicacion web o local de MongoDBCompass mediante la conexión a la url: mongodb+srv://edisonfr7:123@cluster0.kjt0y.mongodb.net/appmedical
+Se puede acceder desde url asignada en el archivo variables.env en la caroeta raiz del proyecto. 
 
 3.Instalar las dependencias: En la consola (ubicarse en la raíz del proyecto)
 
