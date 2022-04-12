@@ -12,10 +12,10 @@ Prerequisito: Instalar nodeJS, npm, MongoDB y MongoDB Compass (de preferencia).
 
 3. Instalar las dependencias: En la consola (ubicarse en la raíz del proyecto)
 
-$ npm install
+ $ npm install
 
 4. Ejecutar Proyecto
 
-$ npm start 
+ $ npm start 
 
 En el navegador: localhost:3000
