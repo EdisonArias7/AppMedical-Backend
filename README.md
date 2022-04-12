@@ -15,7 +15,7 @@ Prerequisito: Instalar nodeJS, npm, MongoDB y MongoDB Compass (de preferencia).
 
 $ npm install
 
-4. Ejecutar Proyecto
+4.Ejecutar Proyecto
 
 $ npm start 
 
